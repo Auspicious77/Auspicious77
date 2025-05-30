@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Elisha 👋</h1>
 
-<!--
-**Auspicious77/Auspicious77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Mobile Engineer | Creative Technologist</strong><br/>
+  Building elegant, high-performance mobile apps with modern backend solutions.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I'm a passionate **Mobile Software Engineer** with expertise in **Flutter** and **React Native**, backed by a strong foundation in backend development using **Node.js**, **Express**, and **MongoDB**. I love building scalable cross-platform applications and solving real-world problems with elegant code and thoughtful design.
+
+- 💡 **5+ years** of building apps for startups and teams
+- 📱 Proficient in **Flutter**, **React Native**, and native mobile principles
+- 🛠 Backend: **Node.js**, **Express**, **MongoDB**, **Firebase**, REST APIs
+- ⚙️ DevOps & Tools: **Git**, **Docker**, **Postman**, **Figma**, **Jira**, **Supabase**
+- 🌍 Based in **Lagos, Nigeria**, working globally 🌐
+
+---
+
+### 🌐 Portfolio
+
+👉 Visit my personal portfolio: [https://portfolio-lyart-rho-ayd97crfd3.vercel.app](https://portfolio-lyart-rho-ayd97crfd3.vercel.app)
+
+---
+
+### 🔧 Tech Stack
+
+| Mobile         | Backend       | Tools / Cloud      |
+| -------------- | ------------- | ------------------ |
+| Flutter        | Node.js       | Firebase           |
+| React Native   | Express.js    | Supabase           |
+| Dart, TypeScript | MongoDB     | Git, GitHub        |
+| REST, GraphQL  | PostgreSQL    | Figma, VS Code     |
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/elisha-oderinde-138b7b195/)
+- 💬 [Twitter](https://twitter.com/akinkunmi_i)
+- 📸 [Instagram](https://instagram.com/auspitech)
+- 📧 elishaibukun@gmail.com
+
+---
+
+### 🛠️ Projects & Contributions
+
+Check out my pinned repositories below to see the projects I'm working on and contributing to!
+
+---
+
+### ⚡ Fun Fact
+
+I'm a **creative generalist** who believes that great products come from the intersection of **design, engineering, and empathy**.
