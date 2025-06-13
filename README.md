@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Mobile Software Engineer** with expertise in **Flutter** and **React Native**, backed by a strong foundation in backend development using **Node.js**, **Express**, and **MongoDB**. I love building scalable cross-platform applications and solving real-world problems with elegant code and thoughtful design.
+I'm a passionate **Mobile Software Engineer** with expertise in  **React Native** and **Flutter** backed by a strong foundation in backend development using **Node.js**, **Express**, and **MongoDB**. I love building scalable cross-platform applications and solving real-world problems with elegant code and thoughtful design.
 
 - 💡 **4+ years** of building apps for startups and teams
-- 📱 Proficient in **Flutter**, **React Native**, and native mobile principles
+- 📱 Proficient in **React Native**, **Flutter** and native mobile principles
 - 🛠 Backend: **Node.js**, **Express**, **MongoDB**, **Firebase**, REST APIs
 - ⚙️ DevOps & Tools: **Git**, **Docker**, **Postman**, **Figma**, **Jira**, **Supabase**
 - 🌍 Based in **Lagos, Nigeria**, working globally 🌐
