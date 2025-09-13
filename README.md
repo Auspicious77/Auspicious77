@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elisha 👋</h1>
 
 <p align="center">
-  <strong>Mobile Engineer | Creative Technologist</strong><br/>
+  <strong>Mobile Engineer | Creative Generalist</strong><br/>
   Building elegant, high-performance mobile apps with modern backend solutions.
 </p>
 
