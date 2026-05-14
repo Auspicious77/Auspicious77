@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elisha 👋</h1>
 
 <p align="center">
-  <strong>Mobile Engineer | Creative Generalist</strong><br/>
+  <strong>Software Engineer | Mobile Engineer | Creative Generalist</strong><br/>
   Building elegant, high-performance mobile apps with modern backend solutions.
 </p>
 
@@ -12,7 +12,7 @@
 I'm a passionate **Mobile Software Engineer** with expertise in  **React Native** and **Flutter** backed by a strong foundation in backend development using **Node.js**, **Express**, and **MongoDB**. I love building scalable cross-platform applications and solving real-world problems with elegant code and thoughtful design.
 
 - 💡 **5+ years** of building apps for startups and teams
-- 📱 Proficient in **Swift**, **React Native**, **Flutter** and native mobile principles
+- 📱 Proficient in **Swift**, **React Native**, **Flutter**, **Reactjs** and native mobile principles
 - 🛠 Backend: **Node.js**, **Express**, **MongoDB**, **Firebase**, REST APIs
 - ⚙️ DevOps & Tools: **Git**, **Docker**, **Postman**, **Figma**, **Jira**, **Supabase**
 - 🌍 Based in **Lagos, Nigeria**, working globally 🌐
