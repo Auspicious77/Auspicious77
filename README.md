@@ -14,7 +14,7 @@ I'm a passionate **Software Engineer** with expertise in  **React**,  **React Na
 - 💡 **5+ years** of building apps for startups and teams
 - 📱 Proficient in **Swift**, **React Native**, **Flutter**, **Reactjs** and native mobile principles
 - 🛠 Backend: **Node.js**, **Express**, **MongoDB**, **Firebase**, REST APIs
-- ⚙️ DevOps & Tools: **Git**, **Docker**, **Postman**, **Figma**, **Jira**, **Supabase**
+- ⚙️ DevOps & Tools: **Git**, **Docker**, **Postman**, **Figma**, **Jira**, **Supabase**, **AWS**, **Azure**
 - 🌍 Based in **Lagos, Nigeria**, working globally 🌐
 
 ---
